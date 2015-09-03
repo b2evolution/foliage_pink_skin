@@ -243,3 +243,7 @@ form.bComment input.submit, #content .submit {
 	cursor: pointer;
 	background-color: #bc80a0;
 }
+.sitewide_header {
+	margin-bottom: 0px !important;
+	box-shadow: none !important;
+}
